@@ -1,16 +1,16 @@
 ---
-title: Imprint
+title: 关于
 layout: default
 navigation: 1
 ---
 
 # Media Owner and Content
 
-... put in information here ...
+... 关于作者和内容介绍 ...
 
 # Links
 
-... put in information here ...
+... 外部链接 ...
 
 
 # License

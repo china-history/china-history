@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "欢迎访问中国历史介绍!"
 date:   2020-04-09 15:28:48 +0800
 categories: jekyll update
 ---
