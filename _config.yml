@@ -3,16 +3,16 @@ url: https://china-history.github.io/
 
 ### download_url: is needed, if and only if audio files are hosted in a different location, it is the path of the directory where the audio files are stored
 download_url: "http://your.fancy.hosting/episodes"
-subtitle: Static Site Podcast Publishing for Geeks
-description: My super duper cool podcast.
-author: Uncle Octopod
+subtitle: 读书明智
+description: 读你感兴趣的历史，探索历史事件的真相，思考人生
+author: 熠熠声慧
 
 ### author_url: This is the URL of a site owned by the author (see https://jsonfeed.org/version/1)
 author_url: "http://your.fancy.hosting/"
 
-email: octopod@example.com
-keywords: [octopod, podcast, magic]
-itunes_categories: [Technology]
+email: sunhualing@outlook.com
+keywords: [history, podcast, china]
+itunes_categories: [History]
 episodes_per_feed_page: 100
 
 player_theme: default # default | "default-dark" | legacy | minimal | republica
