@@ -2,13 +2,13 @@ title: China History
 url: https://china-history.github.io/
 
 ### download_url: is needed, if and only if audio files are hosted in a different location, it is the path of the directory where the audio files are stored
-download_url: "http://your.fancy.hosting/episodes"
+download_url: "https://china-history.github.io/episodes"
 subtitle: 读书明智
 description: 读你感兴趣的历史，探索历史事件的真相，思考人生
 author: 熠熠声慧
 
 ### author_url: This is the URL of a site owned by the author (see https://jsonfeed.org/version/1)
-author_url: "http://your.fancy.hosting/"
+author_url: "https://china-history.github.io"
 
 email: sunhualing@outlook.com
 keywords: [history, podcast, china]
