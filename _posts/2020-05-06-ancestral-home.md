@@ -1,7 +1,7 @@
 ---
-title: ancestral home
-subtitle: Liubei's ancestral home
-datum: May 22nd, 2016
+title: 祖籍
+subtitle: 刘备的祖籍
+datum: May 22nd, 2020
 layout: post
 author: 熠熠声慧
 explicit: 'no'
@@ -26,6 +26,6 @@ It is only necessary for hosting remotely.
 {% podigee_player page %}
 
 ## Shownotes and Links
-hang -> xing
+行字的发音错误，hang -> xing
 
 * Note
