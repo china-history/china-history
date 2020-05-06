@@ -1,22 +1,21 @@
 ---
-title: " this is a test"
-subtitle: A Subtle Subtitle
+title: "三国志开篇"
+subtitle: 开篇以及读书方法
 datum: May 22nd, 2016
 layout: post
 author: 熠熠声慧
 explicit: 'no'
-duration: '0:20:50'
+duration: '4:19.29'
 audio:
-  m4a: name.m4a
-  mp3: name.mp3
-  ogg: name.ogg
+  m4a: SanGuo001.m4a
+  mp3: SanGuo001.mp3
+  ogg: SanGuo001.ogg
 filesize:
-  m4a: 11287966
-  mp3: 4996656
-  ogg: 4811747
+  m4a: 2297462
+  mp3: 2946099
+  ogg: 1846702
 chapters:
-- 00:20:49.16 This is a test.
-- 00:20:49.16 Outro.
+- 00:04:19.29 三国志开篇.
 ---
 
 <!---
