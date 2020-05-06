@@ -29,6 +29,8 @@ rsync_delete: true
 ### Twiter config, optional
 twitter_nick: my_twitter_handle # Twitter will not be used unless this is set
 
+languages: ["en", "zh"]
+defaultLang: en
 language: en
 explicit: "no" # "yes" | "no" | clean
 
