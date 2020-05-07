@@ -1,6 +1,6 @@
 ---
-title: 祖籍
-subtitle: 刘备的祖籍
+title: 刘备传
+subtitle: 1. 刘备的祖籍
 datum: May 22nd, 2020
 layout: post
 author: 熠熠声慧
