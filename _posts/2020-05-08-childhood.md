@@ -25,7 +25,7 @@ It is only necessary for hosting remotely.
 
 {% podigee_player page %}
 
-## Shownotes and Links
+## 原文段落
 
 先主少孤，与母贩履织席为业。
 
