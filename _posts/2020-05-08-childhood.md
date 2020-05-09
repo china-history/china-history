@@ -1,5 +1,5 @@
 ---
-title: 刘备
+title: 刘备传
 subtitle: 2.少年时期
 datum: May 22nd, 2016
 layout: post

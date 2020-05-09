@@ -25,7 +25,16 @@ It is only necessary for hosting remotely.
 
 {% podigee_player page %}
 
-## Shownotes and Links
-行字的发音错误，hang -> xing
+## 原文
+先主姓刘，讳备，字玄德，涿郡涿县人，汉景帝子中山靖王胜之后也。
 
-* Note
+胜子贞，元狩六年封涿县陆城亭侯，坐酎金失侯，因家焉。
+
+先主祖雄，父弘，世仕州郡。雄举孝廉，官至东郡范令。
+
+## 涿郡地图
+![涿郡地图](../../../img/mapOfZhuoState.jpg)
+
+## 发音错误
+千里不留行，行字的发音错误，hang -> xing
+
