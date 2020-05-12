@@ -14,8 +14,6 @@ filesize:
   m4a: 2297462
   mp3: 2946099
   ogg: 1846702
-chapters:
-- 00:04:19.29 三国志开篇.
 ---
 
 <!---
@@ -25,6 +23,6 @@ It is only necessary for hosting remotely.
 
 {% podigee_player page %}
 
-## Shownotes and Links
+## The start
 
-* Note
+

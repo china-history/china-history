@@ -5,7 +5,7 @@ datum: May 22nd, 2016
 layout: post
 author: 熠熠声慧
 explicit: 'no'
-duration: '0:01:00'
+duration: '17:59.59'
 audio:
   m4a: SanGuo003.m4a
   mp3: SanGuo003.mp3
@@ -14,8 +14,6 @@ filesize:
   m4a: 9566960
   mp3: 2345678
   ogg: 7438647
-chapters:
-- 00:00:00.000 刘备的少年.
 ---
 
 <!---
